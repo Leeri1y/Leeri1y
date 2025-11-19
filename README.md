@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Leeri1y/Leeri1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Leeri1y 👋
+   A hardware developer focused on Arduino/Embedded Systems, specializing in RFID and display driver optimization.
+   
+   ## 🔧 My Projects
+   - [RFID-SoftSPI-Driver](https://github.com/Leeri1y/RFID-SoftSPI-Driver) - Solve RC522 SPI conflict with TFT
+   - [Other Project] - Your future projects...
+   
+   ## 📈 Activity Graph
+   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leeri1y&theme=github-dark)
+   
+   ## 🎯 Skills
+   - Hardware: Arduino, RFID RC522, TFT Displays, Circuit Design
+   - Software: C/C++, Git, GitHub, Arduino IDE
