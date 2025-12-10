@@ -3,7 +3,7 @@
    
    ## 🔧 My Projects
    - [RFID-SoftSPI-Driver](https://github.com/Leeri1y/RFID-SoftSPI-Driver) - Solve RC522 SPI conflict with TFT
-   - [Other Project](https://github.com/Leeri1y) - You can visit the homepage for reference.
+   - [Other Project](https://github.com/Leeri1y?tab=repositories) - You can check my GitHub repository...
    
    ## 📈 Activity Graph
    ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leeri1y&theme=github-dark)
