@@ -30,27 +30,27 @@
 
 ## 精选项目
 
-**01 · 九轴姿态仪表盘**<br>
+### 01 · 九轴姿态仪表盘
 [bno086-motion-dash-stm32](https://github.com/Leeri1y/bno086-motion-dash-stm32)　`C` `STM32 HAL` `FreeRTOS` `BNO086` `ST7789`<br>
 把 BNO086 运动仪表盘从 Arduino 完整移植到 STM32F407VET6：硬件 I2C1 读 IMU、SPI1 驱动 ST7789、双任务 + EXTI 按键、页面级报告订阅、Tare 校准，外加一条 I2C 卡死自恢复看门狗。
 
-**02 · STM32 入门教程源码**<br>
+### 02 · STM32 入门教程源码
 [STM32F103-Tutorial](https://github.com/Leeri1y/STM32F103-Tutorial)　`C` `Keil MDK` `StdPeriph` `STM32F103`<br>
 40+ 个独立 Keil 工程，基于标准外设库，逐行中文注释：从 GPIO、定时器、ADC、DMA 一路到 I2C / SPI、RTC、低功耗与看门狗，配接线图。
 
-**03 · BLE Mesh 多灯控制系统**<br>
+### 03 · BLE Mesh 多灯控制系统
 [ble_mesh_light](https://github.com/Leeri1y/ble_mesh_light)　`ESP-IDF v5.3` `BLE Mesh` `NVS` `SSD1306`<br>
 五块 ESP32 跑同一份固件，用 nRF Mesh 配网与分组：开关、0–100% 无极调光、平滑渐变、NVS 持久化、多跳中继，每节点一块 SSD1306 显示状态。
 
-**04 · USB 双声道音频同步**<br>
+### 04 · USB 双声道音频同步
 [usbaudio_FreeRTOS](https://github.com/Leeri1y/usbaudio_FreeRTOS)　`ESP32-S3` `I2S` `USB Audio` `FreeRTOS`<br>
 ESP32-S3 上的双设备音频同步：一块做 I2S 主机、一块做从机，用 FreeRTOS 对齐节拍，把 USB 音频送进两路输出。
 
-**05 · 软 SPI 驱动 RC522**<br>
+### 05 · 软 SPI 驱动 RC522
 [RFID-SoftSPI-Driver](https://github.com/Leeri1y/RFID-SoftSPI-Driver)　`Arduino` `SPI` `RC522`<br>
 纯 Arduino 原生代码实现的软件 SPI，绕开 RC522 与 TFT 抢硬件 SPI 引脚的冲突；接口与常用库兼容，支持 Mifare 1K/4K 完整读写。
 
-**06 · 考研备考系统**<br>
+### 06 · 考研备考系统
 [kaoyan-2028](https://github.com/Leeri1y/kaoyan-2028)　`JavaScript` `Node` `PostgreSQL` `Vercel`<br>
 分阶段任务自动切换、每日打卡、按日期种子确定性抽词复习、金句与资料上传；零框架前端 + Node API，Vercel / Render / PostgreSQL 全免费栈。
 
