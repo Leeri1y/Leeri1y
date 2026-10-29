@@ -86,7 +86,7 @@ ESP32-S3 上的双设备音频同步：一块做 I2S 主机、一块做从机，
   <img alt="public repositories" src="https://img.shields.io/badge/REPOS-16-5CE1B5?style=flat-square&labelColor=121516">
   <img alt="stars" src="https://img.shields.io/badge/STARS-5-5CE1B5?style=flat-square&labelColor=121516">
   <img alt="followers" src="https://img.shields.io/github/followers/Leeri1y?style=flat-square&labelColor=121516&color=5CE1B5">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=Leeri1y&style=flat-square&label=VIEWS&color=5CE1B5">
+  <img alt="member since" src="https://img.shields.io/badge/SINCE-2024-5CE1B5?style=flat-square&labelColor=121516">
 </p>
 
 ## 联系
